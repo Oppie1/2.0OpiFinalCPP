@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244: 'return': conversion from 'SECOND' to 'FIRST', possible loss of data
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         with
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         [
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:             SECOND=double
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         ]
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         and
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         [
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:             FIRST=int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9): warning C4244:         ]
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(15,9):
+      the template instantiation context (the oldest one first) is
+          C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\2.58OpiFncWMultiPrmtrsPmpBrks\main.cpp(34,10):
+          see reference to function template instantiation 'FIRST smaller<int,double>(FIRST,SECOND)' being compiled
+          with
+          [
+              FIRST=int,
+              SECOND=double
+          ]
+  
+  2.58OpiFncWMultiPrmtrsPmpBrks.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PumpBreaksFinal\2.58OpiFncWMultiPrmtrsPmpBrks\x64\Debug\2.58OpiFncWMultiPrmtrsPmpBrks.exe
